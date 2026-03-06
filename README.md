@@ -11,7 +11,7 @@ Data/
 ├── Data/  
 │   ├── TestData/  
 │   └── TrainData/  
-最终实现的效果(d_model=512,en-fr)  
+最终实现的效果(d_model=512,en-fr)(RTX 5090*8)  
 #10000 steps  
 BLEU = 32.66 62.5/38.8/26.1/17.9 (BP = 1.000 ratio = 1.000 hyp_len = 77319 ref_len = 77306)  
 BLEU = 32.656831315117756  
